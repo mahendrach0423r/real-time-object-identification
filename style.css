@@ -1,0 +1,45 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    
+  }
+  .heading_div
+  {
+    float: none;
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+    
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+
+  .copy_right_footer
+  {
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    background-color: grey;
+    color: white;
+    line-height: 3;
+    width: 100%;
+  }
+
+  canvas{
+    border: 5px solid white;
+    box-shadow: 5px 5px 5px grey;
+    border-radius: 5px;
+    margin-top:160px;
+  }
+ 
